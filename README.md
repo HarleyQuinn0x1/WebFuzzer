@@ -1,5 +1,5 @@
 # WebFuzzer
 Web Fuzzer Written c++
 
-##dependencies
+## dependencies
 libcpr --> https://github.com/libcpr/cpr
